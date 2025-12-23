@@ -5,10 +5,10 @@ The model is trained to classify customers as churned or retained based on custo
 
 ## Tools Used
 
-Python
-Pandas
-NumPy
-Scikit-learn
+1.Python
+2.Pandas
+3.NumPy
+4.Scikit-learn
 
 ## Dataset
 
@@ -17,12 +17,12 @@ Churn Modelling Dataset
 
 ## Project Workflow
 
-Data loading and exploration
-Data preprocessing
-Encoding categorical variables
-Train–test data split
-Model training
-Model evaluation
+1.Data loading and exploration
+2.Data preprocessing
+3.Encoding categorical variables
+4.Train–test data split
+5.Model training
+6.Model evaluation
 
 ## Model
 
@@ -30,10 +30,10 @@ Logistic Regression
 
 ## Evaluation Metrics
 
-Accuracy
-Precision
-Recall
-Confusion Matrix
+1.Accuracy
+2.Precision
+3.Recall
+4.Confusion Matrix
 
 ## Result
 
@@ -43,3 +43,4 @@ The trained model successfully predicts customer churn with good accuracy and he
 
 
 Completed as Task 3 – Customer Churn Prediction of CodSoft Internship.
+
